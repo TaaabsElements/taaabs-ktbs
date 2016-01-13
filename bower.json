@@ -17,7 +17,8 @@
   "main": "taaabs-ktbs.html",
   "license": "https://github.com/TaaabsElements/taaabs-ktbs/LICENSE",
   "dependencies": {
-    "polymer": "polymer/polymer#^1.0.0"
+    "polymer": "polymer/polymer#^1.0.0",
+    "taaabs-lazy-loading-behavior": "https://github.com/TaaabsElements/taaabs-lazy-loading-behavior.git"
   },
   "devDependencies": {
     "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
